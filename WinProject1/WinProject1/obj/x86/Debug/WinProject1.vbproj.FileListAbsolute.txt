@@ -1,0 +1,9 @@
+D:\Pemrograman\WinProject1\WinProject1\bin\Debug\WinProject1.exe
+D:\Pemrograman\WinProject1\WinProject1\bin\Debug\WinProject1.pdb
+D:\Pemrograman\WinProject1\WinProject1\bin\Debug\WinProject1.xml
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.Form1.resources
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.Resources.resources
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.vbproj.GenerateResource.Cache
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.exe
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.xml
+D:\Pemrograman\WinProject1\WinProject1\obj\x86\Debug\WinProject1.pdb
